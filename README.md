@@ -12,9 +12,10 @@ Ride the wave in captivating conversations with your aquatic companions, masteri
 In Fish & Kiss, it's not just about finding a match—it's about finding your soulfish.
 Will you be able to swim your way into their hearts and make a splash in the vibrant world of aquatic romance?
 
-
 Official Global Game Jam page: https://globalgamejam.org/games/2024/fish-kiss-6
+
 Official Itch.io page: https://lucacasamentigamedev.itch.io/fishandkiss
+
 ---
 
 Screeshots
