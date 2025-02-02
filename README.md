@@ -16,6 +16,8 @@ Official Global Game Jam page: https://globalgamejam.org/games/2024/fish-kiss-6
 
 Official Itch.io page: https://lucacasamentigamedev.itch.io/fishandkiss
 
+Trailer: https://www.youtube.com/watch?v=xjZLpb6w9Aw
+
 ---
 
 Screeshots
